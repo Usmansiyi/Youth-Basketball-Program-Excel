@@ -20,45 +20,67 @@ The analysis shows that August is the peak revenue month, while December and Nov
 
   
 **Key metrics include:**
-	•Total Revenue: $5.0M
-	•Total Customers: 11,275
-	•Programs Offered: 27
-	•Payment Completion: 93% paid; $358K outstanding
-	•Top Revenue Cities: Greenwich, Stamford, Riverside, Darien
 
-These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
+*Total Revenue: $5.0M
+
+*Total Customers: 11,275
+
+*Programs Offered: 27	
+
+*Payment Completion: 93% paid; $358K outstanding
+
+*Top Revenue Cities: Greenwich, Stamford, Riverside, Darien
+
+
 
 
 
 
 ## Reports
 
-- **Database Schema**: Detailed table structures and relationships.
-- **Data Analysis**:Top 10 Customers by Revenue, Monthly Revenue Growth per Store, Category-wise Film Rental Frequency,
-  					Overdue Rentals & Customer Retention and Automated Monthly Archival Event.
-- **Summary Reports**:  Balance staff performance across branches.
-- 						Sport and sci-fi categories lead in revenue.
-- 						Mid-year peaks due to seasonal demand.
-- 						Popular films enhance engagement.
+- **Methodology**: 
 
-## Conclusion
-Overall, the project represents a complete mini–data warehouse lifecycle:
-Extract - Analyze - Automate - Optimize - Report
-
-## How to Use
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-   ```bash
-   Git clone https://github.com/Usmansiyi/Sakila-SQL-Data-Analysis-Automation-Project.git
+The analysis was conducted using Microsoft Excel, primarily leveraging Pivot Tables to summarize and organize data. Pivot Charts, slicers, and conditional formatting were used to visualize key trends and reveal patterns.
+- **Data Analysis**:
+- 
+1. Seasonal Revenue Pattern
    
+*Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
 
-2. **Set Up the Database**: Execute the SQL scripts in the `sakila-db` folder to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `sakila-db` folder to perform the analysis.
-4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
+*Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
+
+2. Customer Demographics
+   
+*The 11–15 age group is the core revenue driver, contributing $3.2M.
+
+*Other age groups contribute modestly, with 20+ years generating the least revenue.
+
+3. Top-Performing Programs
+ 
+*Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
+
+*Smaller programs include Elite MS Camps and Girls Summer Camps.
+
+4. Geographic Revenue Concentration
+   
+*Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
+*These areas represent high-income, high-participation communities.
+
+5. High-Value Families
+   
+*The Cartiera family is both the highest-paying and the largest participating household (132 customers).
+*Several other families contribute strong recurring revenue.
+
+- **Conclusion**:  These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
+## Recommendations
+Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
+
+
+
 
 ## Author - Usman Siyi
 
-This project showcases SQL & Power bi skills essential for database management and analysis. looking For someone with skills on SQL and data analysis , connect with me through the following channels:
+This project showcases MS Excel skills essential for analysind data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)
