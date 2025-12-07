@@ -42,36 +42,37 @@ The analysis shows that August is the peak revenue month, while December and Nov
 
 The analysis was conducted using Microsoft Excel, primarily leveraging Pivot Tables to summarize and organize data. Pivot Charts, slicers, and conditional formatting were used to visualize key trends and reveal patterns.
 - **Data Analysis**:
-- 
-1. Seasonal Revenue Pattern
+  
+**1. Seasonal Revenue Pattern**
    
-*Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
+  * Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
 
-*Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
+  * Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
 
-2. Customer Demographics
+**2. Customer Demographics**
    
-*The 11–15 age group is the core revenue driver, contributing $3.2M.
+  * The 11–15 age group is the core revenue driver, contributing $3.2M.
 
-*Other age groups contribute modestly, with 20+ years generating the least revenue.
+  * Other age groups contribute modestly, with 20+ years generating the least revenue.
 
-3. Top-Performing Programs
+**3. Top-Performing Programs**
  
-*Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
+  * Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
 
-*Smaller programs include Elite MS Camps and Girls Summer Camps.
+  * Smaller programs include Elite MS Camps and Girls Summer Camps.
 
-4. Geographic Revenue Concentration
+**4. Geographic Revenue Concentration**
    
-*Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
-*These areas represent high-income, high-participation communities.
+  * Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
+  * These areas represent high-income, high-participation communities.
 
-5. High-Value Families
+**5. High-Value Families**
    
-*The Cartiera family is both the highest-paying and the largest participating household (132 customers).
-*Several other families contribute strong recurring revenue.
+  * The Cartiera family is both the highest-paying and the largest participating household (132 customers).
+  * Several other families contribute strong recurring revenue.
 
-- **Conclusion**:  These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
+## Conclusion  
+These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
 ## Recommendations
 Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
 
@@ -80,7 +81,7 @@ Based on the findings, it is recommended to expand high-demand programs, introdu
 
 ## Author - Usman Siyi
 
-This project showcases MS Excel skills essential for analysind data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
+This project showcases MS Excel skills essential for analysing data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)
